@@ -86,7 +86,7 @@
         "Standard_D13_v2"
       ],
       "metadata": {
-        "description": "This is the worerdnode Azure Virtual Machine size, and will affect the cost. If you don't know, just leave the default value."
+        "description": "This is the workerdnode Azure Virtual Machine size, and will affect the cost. If you don't know, just leave the default value."
       }
     }
   },
